@@ -1,4 +1,5 @@
 # Learning about Version Control
+## Author: Barry Siu
 Solving merge conflicts takes conscious effort, but I can do it!
 
 I like that version control allows for multiple versions to be viewed and edited, it keeps all versions organized and not cluttered.
